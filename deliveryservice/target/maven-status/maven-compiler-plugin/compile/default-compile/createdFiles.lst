@@ -1,0 +1,5 @@
+com\fiap\customerservice\model\Customer.class
+com\fiap\customerservice\service\CustomerService.class
+com\fiap\customerservice\controller\CustomerController.class
+com\fiap\deliveryservice\DeliveryServiceApplication.class
+com\fiap\customerservice\repository\CustomerRepository.class

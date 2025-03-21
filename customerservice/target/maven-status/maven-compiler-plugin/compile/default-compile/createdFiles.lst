@@ -1,0 +1,7 @@
+com\fiap\customerservice\model\OrderEntity.class
+com\fiap\customerservice\CustomerServiceApplication.class
+com\fiap\customerservice\model\Customer.class
+com\fiap\customerservice\service\CustomerService.class
+com\fiap\customerservice\service\OrderService.class
+com\fiap\customerservice\controller\CustomerController.class
+com\fiap\customerservice\repository\CustomerRepository.class
